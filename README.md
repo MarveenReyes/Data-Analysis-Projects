@@ -14,9 +14,9 @@ Projects
 
 2.  Classic Models Power BI Project
 
-   Description: A data visualization project using the Classic Models dataset provided by MySQL. This project showcases interactive dashboards and reports that analyze business performance.
-   Key Techniques Used: Power Query, data modeling, data visualization, dashboards, and learned data governance for Power BI. Performed data cleaning, transforming, and ETL processes.
-   File Format: PBIX
+   Description: A data visualization project using the Classic Models dataset provided by MySQL. This project showcases interactive dashboards and reports that analyze business                    performance.
+     Key Techniques Used: Power Query, data modeling, data visualization, dashboards, and learned data governance for Power BI. Performed data cleaning, transforming, and ETL processes.
+     File Format: PBIX
 
 
 
