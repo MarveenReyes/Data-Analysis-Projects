@@ -14,7 +14,7 @@ Projects
    
 -----Jupyter Notebook: For creating and sharing documents that contain live code.
 
-3.  Classic Models Power BI Project
+2.  Classic Models Power BI Project
 
    -----Description: A data visualization project using the Classic Models dataset provided by MySQL. This project showcases interactive dashboards and reports that analyze business                    performance.
    
@@ -22,8 +22,17 @@ Projects
 
 ----- File Format: PBIX
 
+3.    Pandas Functions Practice with Alex the Analyst (Youtube Content Creator)
+
+Description: A practice file created while following a Pandas tutorial by Alex the Analyst. This file focuses on implementing various Pandas functions and techniques without conducting         meaningful analysis. It's a great resource for anyone looking to learn or refine their skills in data manipulation using Pandas.
+    Technologies: Python, Pandas
 
 
+
+-
+-
+-
+-
 
 Contributing
 I welcome contributions to improve my projects! If you have suggestions, feel free to fork the repository and create a pull request.
