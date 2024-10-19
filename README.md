@@ -8,11 +8,15 @@ As a beginner in data analytics, I am committed to learning and applying new ski
 Projects
 1.  Fast Food Sales Analysis
 
-   Description: An analysis of sales data from a fast food restaurant to understand trends, performance metrics, and customer behavior.
+     Description: An analysis of sales data from a fast food restaurant to understand trends, performance metrics, and customer behavior.
     Technologies: Python, Pandas, Matplotlib
     Jupyter Notebook: For creating and sharing documents that contain live code.
 
+2.  Classic Models Power BI Project
 
+   Description: A data visualization project using the Classic Models dataset provided by MySQL. This project showcases interactive dashboards and reports that analyze business performance.
+   Key Techniques Used: Power Query, data modeling, data visualization, dashboards, and learned data governance for Power BI. Performed data cleaning, transforming, and ETL processes.
+   File Format: PBIX
 
 
 
